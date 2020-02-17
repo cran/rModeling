@@ -1,0 +1,13 @@
+85bb1377dde52d09b839051892c36cf6 *DESCRIPTION
+83d22c9dc7d870e3a8f44ca5fa278e9e *NAMESPACE
+4e319d25a53e41243dd1edabf00377c8 *R/functions.R
+57dafae383f8c1f429f5d136dd2dd4dd *R/global.R
+d541bffda1459dcbd202a1ba4bf2740f *data/DATA.rda
+a2996562ed48e97b5cb48d71a54a01e0 *man/DATA.Rd
+838a0d598fc760c61f2427c766599557 *man/crossValidation.Rd
+e4579cb831f506a775c338f80e1e43a6 *man/dataSplit.Rd
+00ddede54727e38f7f62410610d186c4 *man/fnPcaLda.Rd
+461fa76e2dbe4e108b089e7665ff6772 *man/predPcaLda.Rd
+b28eeb6043e3f111dfa80e5f4cd1d29e *man/predSummary.Rd
+cc2fde4010c04e070547c69a54887934 *man/rModeling-package.Rd
+22e22f11d5ead20a3d22bb905ef32514 *man/tunePcaLda.Rd
